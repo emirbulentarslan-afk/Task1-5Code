@@ -1,26 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jul 17 22:01:54 2026
-
-@author: ekinirmak
-"""
-
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jul 17 20:25:37 2026
-
-@author: ekinirmak
-"""
-
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jul 17 19:48:20 2026
-
-@author: ekinirmak
-"""
 from pyscf import gto
 
 
